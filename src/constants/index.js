@@ -33,6 +33,7 @@ import {
   sliders04,
   telegram,
   twitter,
+  githubs,
   yourlogo,
 } from "../assets";
 
